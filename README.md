@@ -12,7 +12,7 @@ You can install the required libraries using pip:
 ```sh
 pip install pandas scikit-learn
 ##Dataset
-The sample dataset contains the following movies:
+The sample dataset contains the following movies
  1. The Matrix
  2. The Lord of the Rings
  3. The Godfather
